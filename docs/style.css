@@ -16,7 +16,7 @@
   #outside-title {
     color: black;
     font-family: Courier;
-    font-size: 14pt;
+    font-size: 24pt;
     text-align: center;
     font-style: italic;
     font-weight: bold;
@@ -47,7 +47,7 @@
   #inside-title {
     color: black;
     font-family: Courier;
-    font-size: 14pt;
+    font-size: 24pt;
     text-align: center;
     font-style: italic;
     font-weight: bold;
@@ -61,11 +61,12 @@
   #message {
     color: black;
     font-family: Courier;
-    font-size: 12pt;
+    font-size: 22pt;
     text-align: center;
     font-weight: bold;
   }
   
   button {
     background: silver;
+    font-size: 22pt;
   }
