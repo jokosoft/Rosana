@@ -16,13 +16,15 @@
   #outside-title {
     color: black;
     font-family: Courier;
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
+    font-style: italic;
+    font-weight: bold;
   }
   
   #outside-pic {
-    width: 150px;
-    height: 150px;
+    width: 400px;
+    height: 180px;
   }
   
   #outside-help {
@@ -45,13 +47,15 @@
   #inside-title {
     color: black;
     font-family: Courier;
-    font-size: 12pt;
+    font-size: 14pt;
     text-align: center;
+    font-style: italic;
+    font-weight: bold;
   }
   
   #inside-pic {
-    width: 50px;
-    height: 150px;
+    width: 250px;
+    height: 135px;
   }
   
   #message {
@@ -59,6 +63,7 @@
     font-family: Courier;
     font-size: 12pt;
     text-align: center;
+    font-weight: bold;
   }
   
   button {
